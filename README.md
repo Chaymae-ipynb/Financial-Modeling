@@ -4,4 +4,4 @@
 
 This project analyzes the volatility and performs a Monte Carlo simulation for Google (GOOG) stock.
 
-View the full report [https://chaymae-ipynb.github.io/Financial-Modeling/GOOGLE.html]
+View the full report [https://chaymae-ipynb.github.io/Financial-Modeling-R-Studio/GOOGLE.html]
